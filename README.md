@@ -42,19 +42,20 @@ Our motivation stems from the belief that AI technology can democratize informat
 ## Installation
 
 1. Clone the repository
-   -git clone [Paste github link]
+   - git clone [Paste github link]
 2. For Back end
-   Create a virtual environment in python
-   -cd backend
-   -Python -m venv env
-   -Activate Virtual Environment:
+
+   - cd backend
+   - Create a virtual environment in python:
+     Python -m venv env
+   - Activate Virtual Environment:
    env/Scripts/Activate
-   -pip install requirements.txt
-   -python app.py
+   - pip install requirements.txt
+   - python app.py
 4. For Front end
-   -cd frontend / Vemburaj-code
-   -npm install
-   -npm run start
+   - cd frontend / Vemburaj-code
+   - npm install
+   - npm run start
 Note: Ensure the port names are proper and add a API key of gemini
    
 
