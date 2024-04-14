@@ -31,10 +31,6 @@ Moreover, the inclusion of an interactive Chatbot ensures a two-way communicatio
 
 Our motivation stems from the belief that AI technology can democratize information access. By harnessing the power of AI to distill and fact-check video content, we aim to provide users with a reliable, time-efficient method of gaining insights. In an era where misinformation abounds, our project strives to contribute to a more informed and discerning audience, fostering a culture of knowledge and accuracy.
 
-## Demo
-
-[Video Link](https://drive.google.com/drive/folders/1VU2Gi7qe2PRONk-fUbf-mYsdeXL3SecM?usp=drive_link )
-
 
 ## Technologies Used
 
@@ -46,19 +42,19 @@ Our motivation stems from the belief that AI technology can democratize informat
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/username/repo.git
+   -git clone [Paste github link]
 2. For Back end
    Create a virtual environment in python
-   cd backend
-   Python -m venv env
-   Activate Virtual Environment
+   -cd backend
+   -Python -m venv env
+   -Activate Virtual Environment:
    env/Scripts/Activate
-   pip install requirements.txt
-   python app.py
+   -pip install requirements.txt
+   -python app.py
 4. For Front end
-   cd frontend / Vemburaj-code
-   npm install
-   npm run start
+   -cd frontend / Vemburaj-code
+   -npm install
+   -npm run start
 Note: Ensure the port names are proper and add a API key of gemini
    
 
